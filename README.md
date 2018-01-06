@@ -32,9 +32,10 @@ For the project to build, **these files must exist with exact filenames**:
 * `src/index.js` is the JavaScript entry point.
 
 
-## How to run
+## How to compile
 *  `git clone https://github.com/jesusveca/map-app-ReactJS.git`
 *  `cd map-app/map-app/`
+*  `npm install` install node-modules
 *  `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
